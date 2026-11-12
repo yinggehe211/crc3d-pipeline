@@ -1,0 +1,5 @@
+comparison,valid_bins,frac_diff_gt0_A_gain,|diff|>0.3,|diff|>0.5,median_abs_diff,high_conf_switch_bins
+noise_floor_BRD3462N_vs_BRD3462Nsb,28252,1.0,0,0,0.003,
+T/N: BRD3187 vs BRD3187N,28240,0.647,0,0,0.004,0.0
+T/N: BRD3462 vs BRD3462N,28281,0.507,0,0,0.004,0.0
+drug_HCT116_5AZA24h_vs_0h,28268,0.65,0,0,0.013,

@@ -1,0 +1,3 @@
+comparison,valid_bins,median_abs_diff_scaled,|diff|>0.94,|diff|>0.5,|diff|>1.0
+T/N: BRD3187 vs BRD3187N,28240,0.204,1074,5281,796
+drug_HCT116_5AZA24h_vs_0h,28188,0.647,10075,16641,9346

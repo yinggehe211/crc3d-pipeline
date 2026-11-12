@@ -1,0 +1,4 @@
+panel,png,source,note
+A_embedding,a30a_embedding.png,a24a_layer1_embedding.csv,"PC1/PC2, type colored, sb pairs linked"
+B_per_chr_rho,a30b_per_chr_rho.png,a29e_per_chr_mean_rho.csv,chrY highlighted; auto mean line
+C_switch_heatmap,a30c_switch_heatmap.png,a24c_diff_*.bedgraph x3,vmin/vmax=+/-2 std units; bed binID-ordered

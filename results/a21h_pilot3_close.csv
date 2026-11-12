@@ -1,0 +1,4 @@
+﻿run,ARI,AB,n_eval
+k5_dropB4,0.1223,0.2718,26129
+sup_global_ceiling,0.1827,0.3256,26239
+procrustes_kmeans,0.2242,0.4038,26239

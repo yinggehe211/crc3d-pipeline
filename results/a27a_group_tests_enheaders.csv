@@ -1,0 +1,5 @@
+level,test,n1,n2,median1,median2,p,direction_holds
+bin_primary,H1: B2A>stableB,282,11740,0.314,0.0,4.23e-12,✓
+bin_primary,H2: A2B<stableA,680,6832,0.143,0.217,9.26e-03,✓
+gene_control,H1: B2A>stableB,901,28687,0.29,0.0,2.45e-23,✓
+gene_control,H2: A2B<stableA,1964,20450,0.058,0.113,3.89e-03,✓
